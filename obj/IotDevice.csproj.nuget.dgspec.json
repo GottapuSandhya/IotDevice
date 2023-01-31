@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\vmadmin\\Desktop\\IOTDemo\\IotDevice\\IotDevice.csproj": {}
+    "C:\\Users\\vmadmin\\Desktop\\IOTDemo\\IotDevice\\IotDevice.csproj": {}
   },
   "projects": {
-    "c:\\Users\\vmadmin\\Desktop\\IOTDemo\\IotDevice\\IotDevice.csproj": {
+    "C:\\Users\\vmadmin\\Desktop\\IOTDemo\\IotDevice\\IotDevice.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\vmadmin\\Desktop\\IOTDemo\\IotDevice\\IotDevice.csproj",
+        "projectUniqueName": "C:\\Users\\vmadmin\\Desktop\\IOTDemo\\IotDevice\\IotDevice.csproj",
         "projectName": "IotDevice",
-        "projectPath": "c:\\Users\\vmadmin\\Desktop\\IOTDemo\\IotDevice\\IotDevice.csproj",
+        "projectPath": "C:\\Users\\vmadmin\\Desktop\\IOTDemo\\IotDevice\\IotDevice.csproj",
         "packagesPath": "C:\\Users\\vmadmin\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\vmadmin\\Desktop\\IOTDemo\\IotDevice\\obj\\",
+        "outputPath": "C:\\Users\\vmadmin\\Desktop\\IOTDemo\\IotDevice\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\vmadmin\\AppData\\Roaming\\NuGet\\NuGet.Config"

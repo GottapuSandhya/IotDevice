@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cAoBwJItmx13zqxKQ9mLNXJ6L8do0t3sQuEhq0zPdP9xIJkR4wM8Ae4CiXSru6MGVFOmzJBhU+Qk6JmPZ+eOjA==",
+  "dgSpecHash": "qPUtS0mTHrrbcca06Kma1mjEkzO54WF5/gSl0mksTRbc5G6YP8rkJrWDSOw0YrGcKdLXf9bw+aJSshvWXcgpIw==",
   "success": true,
-  "projectFilePath": "c:\\Users\\vmadmin\\Desktop\\IOTDemo\\IotDevice\\IotDevice.csproj",
+  "projectFilePath": "C:\\Users\\vmadmin\\Desktop\\IOTDemo\\IotDevice\\IotDevice.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\vmadmin\\.nuget\\packages\\azure.core\\1.22.0\\azure.core.1.22.0.nupkg.sha512",
     "C:\\Users\\vmadmin\\.nuget\\packages\\dotnetty.buffers\\0.7.0\\dotnetty.buffers.0.7.0.nupkg.sha512",
